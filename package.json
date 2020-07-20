@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "workspaces": [
+    "app1",
+    "app2",
+    "lib1",
+    "lib2",
+    "lib3"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "lib2",
+    "../lib3"
+  ],
+  "dependencies": {
+    "lib2": "*",
+    "lib3": "*",
+    "lodash": "4.17.14"
+  }
+}

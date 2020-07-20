@@ -1,0 +1,8 @@
+{
+  "name": "lib1",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "lodash": "^2.0.0"
+  }
+}
